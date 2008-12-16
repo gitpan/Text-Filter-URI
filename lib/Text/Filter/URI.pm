@@ -15,15 +15,11 @@ BEGIN {
 
 =head1 NAME
 
-Text::Filter::URI - Filter a string to fit URI requirements
-
-=head1 VERSION
-
-Version 0.01
+Text::Filter::URI - Filter a string to meet URI requirements
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
